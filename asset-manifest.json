@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RajatKohade/Car-Project/static/css/main.be2a8d09.css",
+    "main.js": "/RajatKohade/Car-Project/static/js/main.a01ce38f.js",
+    "static/js/453.5e560239.chunk.js": "/RajatKohade/Car-Project/static/js/453.5e560239.chunk.js",
+    "static/media/bg.jpg": "/RajatKohade/Car-Project/static/media/bg.e5ef33a5b2aba39c0d0b.jpg",
+    "index.html": "/RajatKohade/Car-Project/index.html",
+    "main.be2a8d09.css.map": "/RajatKohade/Car-Project/static/css/main.be2a8d09.css.map",
+    "main.a01ce38f.js.map": "/RajatKohade/Car-Project/static/js/main.a01ce38f.js.map",
+    "453.5e560239.chunk.js.map": "/RajatKohade/Car-Project/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2a8d09.css",
+    "static/js/main.a01ce38f.js"
+  ]
+}
